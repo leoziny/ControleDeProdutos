@@ -34,6 +34,9 @@ python main.py
 O programa oferece um menu interativo com as seguintes opções:
 
 [1] Criar Produto: Adicione produtos à lista.
+
 [2] Listar Produtos: Veja todos os produtos cadastrados.
+
 [3] Editar Produto: Altere informações de um produto específico.
+
 [4] Sair do Programa: Encerre o sistema.
